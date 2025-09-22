@@ -1,0 +1,8 @@
+pyproject.toml
+setup.cfg
+sshC.py
+sshC.egg-info/PKG-INFO
+sshC.egg-info/SOURCES.txt
+sshC.egg-info/dependency_links.txt
+sshC.egg-info/entry_points.txt
+sshC.egg-info/top_level.txt
