@@ -8,7 +8,7 @@ File organization:
 ./smartCard/sig - random message to generate signature
 ./smartCard/private_key.pem - private key used to create signature for vm access 
 
-sshC.py - code searches root directory for keys until they exist then calls ssh if they are valid
+sshC.py - code searches root directory for signature until it exists then calls ssh if it is valid
 
 private_key.pem - code handles input from used on the card and creates and sends signature 
 
